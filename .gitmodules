@@ -1,0 +1,6 @@
+[submodule "microservices/HealthSystem-appointments"]
+	path = microservices/HealthSystem-appointments
+	url = https://github.com/Jucami90/HealthSystem-appointments.git
+[submodule "microservices/healthsystem-user"]
+	path = microservices/healthsystem-user
+	url = https://github.com/Jucami90/healthsystem-user.git
